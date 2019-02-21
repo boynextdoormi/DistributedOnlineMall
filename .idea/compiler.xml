@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="taoshop" />
+        <module name="taoshop-common" />
+        <module name="taoshop-manage-mapper" />
+        <module name="taoshop-manage-pojo" />
+        <module name="taoshop-manage-service" />
+        <module name="taoshop-manage-web" />
+        <module name="taoshop-order" />
+        <module name="taoshop-pojo" />
+        <module name="taoshop-portal" />
+        <module name="taoshop-rest" />
+        <module name="taoshop-search" />
+        <module name="taoshop-sso" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="taoshop" target="1.5" />
+      <module name="taoshop-common" target="1.7" />
+      <module name="taoshop-manage" target="1.7" />
+      <module name="taoshop-manage-mapper" target="1.7" />
+      <module name="taoshop-manage-pojo" target="1.7" />
+      <module name="taoshop-manage-service" target="1.7" />
+      <module name="taoshop-manage-web" target="1.7" />
+      <module name="taoshop-order" target="1.7" />
+      <module name="taoshop-parent" target="1.7" />
+      <module name="taoshop-pojo" target="1.7" />
+      <module name="taoshop-portal" target="1.7" />
+      <module name="taoshop-rest" target="1.7" />
+      <module name="taoshop-search" target="1.7" />
+      <module name="taoshop-sso" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="taoshop-rest:war">
+    <output-path>$PROJECT_DIR$/taoshop-rest/target</output-path>
+    <root id="archive" name="taoshop-rest.war">
+      <element id="artifact" artifact-name="taoshop-rest:war exploded" />
+    </root>
+  </artifact>
+</component>
